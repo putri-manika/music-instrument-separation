@@ -5,11 +5,11 @@ Proyek ini bertujuan untuk menganalisis dan mengolah sinyal digital dari rekaman
 
 Melalui pendekatan seperti transformasi frekuensi (PSD) dan teknik visualisasi spektrum, proyek ini menjadi alat bantu yang potensial bagi musisi atau peneliti untuk:
 
-Mengidentifikasi karakteristik frekuensi tiap instrumen
+1. Mengidentifikasi karakteristik frekuensi tiap instrumen
 
-Memahami struktur suara dalam campuran audio
+2. Memahami struktur suara dalam campuran audio
 
-Meningkatkan kemampuan belajar dan latihan melalui analisis isolasi suara
+3. Meningkatkan kemampuan belajar dan latihan melalui analisis isolasi suara
 
 ## Library
 Notebook ini dibangun dengan Python menggunakan library berikut:
